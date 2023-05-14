@@ -11,5 +11,6 @@ public class testcode {
         System.out.println("kiem tra gia ve t vs t1:"+t.kiemTraGiaVe(t1));
         System.out.println("hien thi nha san xuat phim: "+hp.getHangSanXuat());
         System.out.println("gia sau khi giam 50% : "+t.giaTienKhiGiamGia(50)+"vnd");
+        System.out.println("=====================================================");
     }
 }
